@@ -1,0 +1,2 @@
+defmodule Pasta do
+end
